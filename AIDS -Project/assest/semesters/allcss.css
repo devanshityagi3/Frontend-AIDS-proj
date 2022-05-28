@@ -1,0 +1,36 @@
+
+
+/*  SUBJECT'S CSS FILE*/
+body{
+    font-family: sans-serif;
+}
+.section h1{
+    text-align: center;
+    color: hsl(210, 29%, 24%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section .sec{
+  margin:10px;
+  width:330px;
+  padding-left: 30px;
+  float: left;
+  box-shadow: 40px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  height: 280px;
+}
+.section .sec:hover{
+transform: scale(0.9);
+box-shadow: black;
+}
+.section .row1 .sec {
+  margin-left: 80px;
+  width: 360px;
+  margin-top: 60px;
+}
+.section .row2 .sec {
+  margin-left: 80px;
+  width: 360px;
+  margin-top: 60px;
+}
